@@ -1,0 +1,15 @@
+id,date,amount,category,description,type
+1,2026-01-05,45.5,Groceries,Weekly grocery run at Walmart,expense
+2,2026-01-10,3200.0,Salary,January monthly paycheck,income
+3,2026-01-15,120.0,Transport,Uber to airport + gas refill,expense
+4,2026-01-22,950.0,Rent,February apartment rent (paid early),expense
+5,2026-01-28,65.0,Entertainment,Netflix + movie tickets,expense
+6,2026-02-03,500.0,Bonus,Performance bonus from work,income
+7,2026-02-10,38.75,Food,Coffee and breakfast at Starbucks,expense
+8,2026-02-18,180.0,Utilities,January electricity + internet bill,expense
+9,2026-02-25,75.0,Shopping,New running shoes on Amazon,expense
+10,2026-03-01,3400.0,Salary,March monthly paycheck,income
+11,2026-03-05,220.0,Transport,Monthly metro pass + parking,expense
+12,2026-03-12,42.0,Groceries,Quick Target run,expense
+13,2026-03-20,150.0,Entertainment,Concert tickets with friends,expense
+14,2026-03-25,85.0,Food,Team lunch at Thai place,expense
